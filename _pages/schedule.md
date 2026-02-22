@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Workshop schedule for December 6/7, 2025
+description: Tentative workshop schedule for ICML 2026
 nav: true
 nav_order: 3
 ---
@@ -13,14 +13,14 @@ nav_order: 3
     <p class="hero-subtitle">Full-day program exploring the philosophy of AI</p>
     <div class="schedule-badge">
       <div class="badge-content">
-        <span class="date-line">December 6/7, 2025</span>
-        <span class="time-line">08:55 – 18:40</span>
-        <span class="venue-line">Co-located with NeurIPS 2025</span>
+        <span class="date-line">TBD, 2026</span>
+        <span class="time-line">08:00 &ndash; 17:00</span>
+        <span class="venue-line">Co-located with ICML 2026</span>
       </div>
     </div>
   </div>
   <div class="floating-elements">
-    <div class="element">⏰</div>
+    <div class="element">&clock;</div>
     <div class="element">🎤</div>
     <div class="element">📅</div>
   </div>
@@ -54,7 +54,7 @@ nav_order: 3
   </section>
 
   <section class="schedule-table-section">
-    <h2>Detailed Schedule</h2>
+    <h2>Tentative Schedule</h2>
     <div class="schedule-table-container">
       <table class="schedule-table">
         <thead>
@@ -65,7 +65,7 @@ nav_order: 3
         </thead>
         <tbody>
           <tr class="opening-row">
-            <td class="time-cell">08:55–09:00</td>
+            <td class="time-cell">08:00&ndash;08:10</td>
             <td class="event-cell">
               <div class="event-content">
                 <span class="event-title">Opening Remarks</span>
@@ -74,16 +74,17 @@ nav_order: 3
             </td>
           </tr>
           <tr class="keynote-row">
-            <td class="time-cell">09:00–10:10</td>
+            <td class="time-cell">08:10&ndash;09:20</td>
             <td class="event-cell">
               <div class="event-content">
-                <span class="event-title">Invited Keynote 1 & 2</span>
+                <span class="event-title">Invited Keynotes 1 &amp; 2</span>
+                <span class="event-subtitle">30 min talk + 5 min Q&amp;A each</span>
                 <span class="event-type keynote">Keynote Session</span>
               </div>
             </td>
           </tr>
           <tr class="break-row">
-            <td class="time-cell">10:10–10:55</td>
+            <td class="time-cell">09:20&ndash;10:05</td>
             <td class="event-cell">
               <div class="event-content">
                 <span class="event-title">Poster Session 1</span>
@@ -93,26 +94,27 @@ nav_order: 3
             </td>
           </tr>
           <tr class="keynote-row">
-            <td class="time-cell">10:55–12:05</td>
+            <td class="time-cell">10:05&ndash;11:15</td>
             <td class="event-cell">
               <div class="event-content">
-                <span class="event-title">Invited Keynote 3 & 4</span>
+                <span class="event-title">Invited Keynotes 3 &amp; 4</span>
+                <span class="event-subtitle">30 min talk + 5 min Q&amp;A each</span>
                 <span class="event-type keynote">Keynote Session</span>
               </div>
             </td>
           </tr>
           <tr class="oral-row">
-            <td class="time-cell">12:05–12:35</td>
+            <td class="time-cell">11:15&ndash;12:00</td>
             <td class="event-cell">
               <div class="event-content">
                 <span class="event-title">Oral Session 1</span>
-                <span class="event-subtitle">10 min × 3 presentations</span>
+                <span class="event-subtitle">15 min &times; 3 presentations</span>
                 <span class="event-type oral">Paper Presentations</span>
               </div>
             </td>
           </tr>
           <tr class="lunch-row">
-            <td class="time-cell">12:35–13:20</td>
+            <td class="time-cell">12:00&ndash;12:45</td>
             <td class="event-cell">
               <div class="event-content">
                 <span class="event-title">Lunch Break</span>
@@ -120,27 +122,18 @@ nav_order: 3
               </div>
             </td>
           </tr>
-          <tr class="oral-row">
-            <td class="time-cell">13:20–13:50</td>
-            <td class="event-cell">
-              <div class="event-content">
-                <span class="event-title">Oral Session 2</span>
-                <span class="event-subtitle">10 min × 3 presentations</span>
-                <span class="event-type oral">Paper Presentations</span>
-              </div>
-            </td>
-          </tr>
           <tr class="keynote-row">
-            <td class="time-cell">13:50–15:00</td>
+            <td class="time-cell">12:45&ndash;13:55</td>
             <td class="event-cell">
               <div class="event-content">
-                <span class="event-title">Invited Keynote 5 & 6</span>
+                <span class="event-title">Invited Keynotes 5 &amp; 6</span>
+                <span class="event-subtitle">30 min talk + 5 min Q&amp;A each</span>
                 <span class="event-type keynote">Keynote Session</span>
               </div>
             </td>
           </tr>
           <tr class="break-row">
-            <td class="time-cell">15:00–15:45</td>
+            <td class="time-cell">13:55&ndash;14:40</td>
             <td class="event-cell">
               <div class="event-content">
                 <span class="event-title">Poster Session 2</span>
@@ -150,16 +143,17 @@ nav_order: 3
             </td>
           </tr>
           <tr class="keynote-row">
-            <td class="time-cell">15:45–16:55</td>
+            <td class="time-cell">14:40&ndash;15:15</td>
             <td class="event-cell">
               <div class="event-content">
-                <span class="event-title">Invited Keynote 7 & 8</span>
+                <span class="event-title">Invited Keynote 7</span>
+                <span class="event-subtitle">30 min talk + 5 min Q&amp;A</span>
                 <span class="event-type keynote">Keynote Session</span>
               </div>
             </td>
           </tr>
           <tr class="panel-row">
-            <td class="time-cell">16:55–17:55</td>
+            <td class="time-cell">15:15&ndash;16:00</td>
             <td class="event-cell">
               <div class="event-content">
                 <span class="event-title">Panel Discussion</span>
@@ -169,20 +163,20 @@ nav_order: 3
             </td>
           </tr>
           <tr class="oral-row">
-            <td class="time-cell">17:55–18:25</td>
+            <td class="time-cell">16:00&ndash;16:45</td>
             <td class="event-cell">
               <div class="event-content">
-                <span class="event-title">Oral Session 3</span>
-                <span class="event-subtitle">10 min × 3 presentations</span>
+                <span class="event-title">Oral Session 2</span>
+                <span class="event-subtitle">15 min &times; 3 presentations</span>
                 <span class="event-type oral">Paper Presentations</span>
               </div>
             </td>
           </tr>
           <tr class="closing-row">
-            <td class="time-cell">18:25–18:40</td>
+            <td class="time-cell">16:45&ndash;17:00</td>
             <td class="event-cell">
               <div class="event-content">
-                <span class="event-title">Award Announcement & Closing Remarks</span>
+                <span class="event-title">Award Announcement &amp; Closing Remarks</span>
                 <span class="event-type closing">Conclusion</span>
               </div>
             </td>
@@ -198,7 +192,7 @@ nav_order: 3
       <div class="detail-card">
         <div class="detail-icon">🎤</div>
         <h3>Keynote Presentations</h3>
-        <p>Eight confirmed keynote speakers will present their perspectives on philosophy of AI and large language models. Each keynote session features 35 minutes per speaker, allowing for in-depth exploration of the topics.</p>
+        <p>Seven confirmed keynote speakers will present their perspectives on philosophy of AI and large language models. Each keynote session features 30 minutes per speaker plus 5 minutes for Q&amp;A.</p>
       </div>
       
       <div class="detail-card">
@@ -210,19 +204,19 @@ nav_order: 3
       <div class="detail-card">
         <div class="detail-icon">📝</div>
         <h3>Oral Presentations</h3>
-        <p>Nine accepted papers will be presented in three sessions (3 papers each), with 10 minutes allocated per presentation including discussion.</p>
+        <p>Accepted papers will be presented in two oral sessions (3 papers each), with 15 minutes allocated per presentation including discussion.</p>
       </div>
       
       <div class="detail-card">
         <div class="detail-icon">💭</div>
         <h3>Panel Discussion</h3>
-        <p>A moderated panel featuring workshop speakers will address key philosophical questions raised throughout the day, with audience Q&A.</p>
+        <p>A moderated panel featuring workshop speakers will address key philosophical questions raised throughout the day, with audience Q&amp;A.</p>
       </div>
     </div>
   </section>
 
   <div class="schedule-note">
-    <p><em>The detailed schedule with specific speaker assignments and topics will be updated closer to the workshop date.</em></p>
+    <p><em>This is a tentative schedule. The detailed schedule with specific speaker assignments and topics will be updated closer to the workshop date.</em></p>
   </div>
 </div>
 

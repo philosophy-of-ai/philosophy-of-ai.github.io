@@ -2,7 +2,7 @@
 layout: page
 permalink: /speakers/
 title: Speakers
-description: We are excited to feature eight distinguished speakers who bring diverse perspectives from philosophy, cognitive science, and artificial intelligence to explore fundamental questions about LLMs and the nature of mind.
+description: All confirmed and presenting in person. Seven distinguished speakers bringing diverse perspectives from philosophy, cognitive science, and artificial intelligence.
 nav: true
 nav_order: 1
 ---
@@ -11,26 +11,26 @@ nav_order: 1
   <div class="speakers-grid">
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="/assets/img/speakers/david_chalmers.jpg" alt="David Chalmers" class="speaker-image">
+        <img src="/assets/img/speakers/geoff_keeling.jpg" alt="Geoff Keeling" class="speaker-image">
       </div>
       <div class="speaker-info">
-        <h3 class="speaker-name">David Chalmers</h3>
-        <p class="speaker-affiliation">New York University</p>
+        <h3 class="speaker-name">Geoff Keeling</h3>
+        <p class="speaker-affiliation">Google</p>
         <div class="speaker-bio">
-          <p>David Chalmers is University Professor of Philosophy and Neural Science and co-director of the Center for Mind, Brain, and Consciousness at New York University. He is the author of <em>The Conscious Mind</em> (1996), <em>Constructing The World</em> (2010), and <em>Reality+: Virtual Worlds and the Problems of Philosophy</em> (2022). He is known for formulating the "hard problem" of consciousness, which inspired Tom Stoppard's play <em>The Hard Problem</em>, and for the idea of the "extended mind," which says that the tools we use can become parts of our minds. He is widely regarded as one of the most important living philosophers, whose work has transformative impact on numerous disciplines, including the development of artificial intelligence.</p>
+          <p>Geoff Keeling is a Staff Research Scientist and philosopher at Google and a Fellow at the Institute of Philosophy, University of London. He works on the ethical and societal impacts of artificial general intelligence, including questions around AI welfare and consciousness. In 2024, he co-led the Google DeepMind report on the Ethics of Advanced AI Assistants as well as Google's first empirical study on machine sentience. Prior to Google, Geoff was a Research Fellow at Stanford University, where he was affiliated with the Institute for Human-Centered AI and the McCoy Family Center for Ethics in Society. He co-organized the ICLR 2025 Workshop on Human-AI Coevolution.</p>
         </div>
       </div>
     </div>
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="/assets/img/speakers/melanie_mitchell.jpg" alt="Melanie Mitchell" class="speaker-image">
+        <img src="/assets/img/speakers/herman_cappelen.jpg" alt="Herman Cappelen" class="speaker-image">
       </div>
       <div class="speaker-info">
-        <h3 class="speaker-name">Melanie Mitchell</h3>
-        <p class="speaker-affiliation">Santa Fe Institute</p>
+        <h3 class="speaker-name">Herman Cappelen</h3>
+        <p class="speaker-affiliation">University of Hong Kong</p>
         <div class="speaker-bio">
-          <p>Melanie Mitchell is a Professor at Santa Fe Institute. She previously held faculty or research positions at the University of Michigan, the Santa Fe Institute, Los Alamos National Laboratory, the Oregon Graduate Institute, and Portland State University, and received her PhD in Computer Science from the University of Michigan. Her recent research focuses on conceptual abstraction and analogy-making in humans and in artificial intelligence systems. Melanie is the author or editor of six books and over 100 scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems.</p>
+          <p>Herman Cappelen is Chair Professor of Philosophy at the University of Hong Kong, where he co-directs the AI &amp; Humanity Lab and directs the MA in AI, Ethics, and Society. Previously, he held positions at the University of St Andrews (Arch&eacute; Chair), the University of Oslo (co-director of CSMN's ConceptLab), Somerville College Oxford, and Vassar College. He is a member of the Norwegian Academy of Science and Letters, the Academia Europaea, and a 2025&ndash;2026 Berggruen Institute China Fellow. His research spans the philosophy of language, conceptual engineering, and the philosophy of AI. His recent books with Josh Dever include <em>Making AI Intelligible: Philosophical Perspectives</em> and the forthcoming <em>Going Whole Hog: A Philosophical Defense of AI Cognition</em>, which argues for a full-blooded attribution of cognitive capacities to large language models.</p>
         </div>
       </div>
     </div>
@@ -43,7 +43,20 @@ nav_order: 1
         <h3 class="speaker-name">Been Kim</h3>
         <p class="speaker-affiliation">Google DeepMind</p>
         <div class="speaker-bio">
-          <p>Been Kim is a Senior Staff Research Scientist at Google DeepMind, dedicated to fostering effective communication and collaboration between humans and complex machine learning models. Her research aims to harness machine intelligence for human benefit. Notably, her recent work in teaching superhuman chess concepts to grandmasters, one of them becoming the youngest World Chess Champion (Gukesh). Dr. Kim is an accomplished speaker, having given a talk at the G20 meeting in Argentina (2019) and keynotes at ICLR (2022) and ECML (2020).</p>
+          <p>Been Kim is a Senior Staff Research Scientist at Google DeepMind, dedicated to fostering effective communication and collaboration between humans and complex machine learning models. Her research aims to harness machine intelligence for human benefit. Notably, her recent work in teaching superhuman chess concepts to grandmasters contributed to one of them becoming the youngest World Chess Champion (Gukesh). Dr. Kim has given talks at the G20 meeting in Argentina (2019) and keynotes at ICLR (2022) and ECML (2020). Her influential work TCAV was recognized with the UNESCO Netexplo award and featured at Google I/O '19. She is the General Chair for ICLR 2024, was Senior Program Chair for ICLR 2023, and has extensive experience as a Senior Area Chair at NeurIPS, ICML, ICLR, and AISTATS. She earned her PhD from MIT.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="speaker-card">
+      <div class="speaker-image-container">
+        <img src="/assets/img/speakers/vincent_mueller.jpg" alt="Vincent C. Müller" class="speaker-image">
+      </div>
+      <div class="speaker-info">
+        <h3 class="speaker-name">Vincent C. Müller</h3>
+        <p class="speaker-affiliation">FAU Erlangen-Nürnberg</p>
+        <div class="speaker-bio">
+          <p>Vincent C. Müller is Alexander von Humboldt Professor for Philosophy and Ethics of AI and Director of the Centre for Philosophy and AI Research (PAIR) at FAU Erlangen-Nürnberg, as well as Visiting Professor at TU Eindhoven, President of the European Society for Cognitive Systems, Chair of the Society for the Philosophy of Artificial Intelligence, and Chair of the euRobotics topics group on 'ethical, legal and socio-economic issues'. Müller works mainly on philosophical problems connected to artificial intelligence, both in ethics and in theoretical philosophy. He organizes the conference series on the Philosophy of AI (PhAI) and co-edits the journal <em>Philosophy of AI</em>.</p>
         </div>
       </div>
     </div>
@@ -56,7 +69,7 @@ nav_order: 1
         <h3 class="speaker-name">Daniel Rothschild</h3>
         <p class="speaker-affiliation">University College London</p>
         <div class="speaker-bio">
-          <p>Daniel Rothschild is Professor of Philosophy of Language at UCL. Previously, Rothschild held faculty positions at Columbia University, Yale University, and All Souls College, Oxford. Rothschild's work focuses on language, knowledge and their interaction, and is known for his significant contributions to epistemology and the philosophy of language in general. Recently, Rothschild has written on the implications of large language models for philosophy of mind and he is currently working on a book about the relationship between machine learning and human learning.</p>
+          <p>Daniel Rothschild is Professor of Philosophy of Language at UCL. Previously, Rothschild held faculty positions at Columbia University, Yale University, and All Souls College, Oxford. Rothschild's work focuses on language, epistemology and their interaction, and is known for his significant contributions to epistemology and the philosophy of language. Recently, Rothschild has written on the implications of large language models for philosophy of mind and he is currently working on a book about the relationship between machine learning and human learning. He has delivered numerous keynotes at major philosophy and linguistics conferences, including the inaugural conference of the Philosophy of Language Association.</p>
         </div>
       </div>
     </div>
@@ -67,9 +80,9 @@ nav_order: 1
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Yilun Du</h3>
-        <p class="speaker-affiliation">Harvard University / Google DeepMind</p>
+        <p class="speaker-affiliation">Harvard University</p>
         <div class="speaker-bio">
-          <p>Yilun Du is an assistant professor at Harvard in the Kempner Institute and Computer Science. He was previously a senior research scientist at Google DeepMind and received his PhD from MIT. His research focuses on generative models, decision making, robot learning, embodied agents, and the applications of such tools to scientific domains. His research is driven by the goal of developing intelligent embodied agents in the physical world.</p>
+          <p>Yilun Du is an Assistant Professor at Harvard in the Kempner Institute and Computer Science. He was previously a Senior Research Scientist at Google DeepMind and received his PhD from MIT. His research focuses on generative models, decision making, robot learning, embodied agents, and applications to scientific domains. His research is driven by the goal of developing intelligent embodied agents in the physical world, primarily focusing on building world models using generative AI to enable systematic planning and iterative reasoning. His work has yielded both significant technical contributions (including the development of diffusion models) and advanced foundational understanding of world models across visual generation, scene understanding, and decision-making.</p>
         </div>
       </div>
     </div>
@@ -80,35 +93,9 @@ nav_order: 1
       </div>
       <div class="speaker-info">
         <h3 class="speaker-name">Raphaël Millière</h3>
-        <p class="speaker-affiliation">Macquarie University / University of Oxford</p>
+        <p class="speaker-affiliation">University of Oxford</p>
         <div class="speaker-bio">
-          <p>Raphaël Millière is Assistant Professor in Philosophy of AI at Macquarie University in Sydney and incoming Associate Professor at the University of Oxford. He is also an AI2050 Fellow (Schmidt Sciences) and an Australian Research Council DECRA Fellow. His research focuses on foundational questions regarding the capacities and limitations of modern deep neural networks, particularly language models. It addresses both first-order questions about whether these systems exhibit specific cognitive capacities, and second-order methodological challenges involved in evaluating these cognitive capacities in neural networks.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="speaker-card">
-      <div class="speaker-image-container">
-        <img src="/assets/img/speakers/ziming_liu.jpg" alt="Ziming Liu" class="speaker-image">
-      </div>
-      <div class="speaker-info">
-        <h3 class="speaker-name">Ziming Liu</h3>
-        <p class="speaker-affiliation">MIT / Tsinghua University</p>
-        <div class="speaker-bio">
-          <p>Ziming Liu is an incoming assistant professor at Tsinghua University and a final-year PhD student at the Massachusetts Institute of Technology (MIT). His research bridges Science for AI—leveraging scientific principles to design and understand AI models—and AI for Science—applying AI to accelerate scientific discovery. Ziming's work has attracted wide attention in both the AI and physics communities, including a notable contribution to the development of Kolmogorov-Arnold Networks.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="speaker-card">
-      <div class="speaker-image-container">
-        <img src="/assets/img/speakers/ellie_pavlick.jpg" alt="Ellie Pavlick" class="speaker-image">
-      </div>
-      <div class="speaker-info">
-        <h3 class="speaker-name">Ellie Pavlick</h3>
-        <p class="speaker-affiliation">Brown University & Google DeepMind</p>
-        <div class="speaker-bio">
-          <p>Ellie Pavlick is an Associate Professor of Computer Science, Cognitive Science, and Linguistics at Brown University, and a Research Scientist at Google DeepMind. She leads the Language Understanding and Representation (LUNAR) Lab, which seeks to understand how language "works" and to build computational models which can understand language the way that humans do. Her lab's projects focus on language broadly construed, and often includes the study of capacities more general than language, including conceptual representations, reasoning, learning, and generalization.</p>
+          <p>Raphaël Millière is Associate Professor of Philosophy and Fellow of Jesus College at the University of Oxford. He is an AI2050 Fellow (Schmidt Sciences) and an Australian Research Council DECRA Fellow. Previously, Millière was the Robert A. Burt Presidential Scholar at Columbia University and earned his PhD from the University of Oxford. His research focuses on foundational questions regarding the capacities and limitations of modern deep neural networks, particularly language models, addressing both first-order questions about whether these systems exhibit specific cognitive capacities and second-order methodological challenges involved in evaluating them. His work has been featured in CNN, The Atlantic, and Wired.</p>
         </div>
       </div>
     </div>
@@ -150,77 +137,10 @@ nav_order: 1
   opacity: 0.9;
 }
 
-.speaker-count {
-  display: inline-block;
-  background: rgba(255, 255, 255, 0.2);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 15px;
-  padding: 1rem 2rem;
-  text-align: center;
-}
-
-.count-number {
-  display: block;
-  font-size: 2.5rem;
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-}
-
-.count-label {
-  display: block;
-  font-size: 0.9rem;
-  opacity: 0.8;
-}
-
-.floating-elements {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-}
-
-.element {
-  position: absolute;
-  font-size: 2rem;
-  opacity: 0.1;
-  animation: float 6s ease-in-out infinite;
-}
-
-.element:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
-.element:nth-child(2) { top: 60%; right: 15%; animation-delay: 2s; }
-.element:nth-child(3) { bottom: 20%; left: 20%; animation-delay: 4s; }
-
-@keyframes float {
-  0%, 100% { transform: translateY(0px) rotate(0deg); }
-  50% { transform: translateY(-20px) rotate(5deg); }
-}
-
 .speakers-content {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
-}
-
-.speakers-introduction {
-  text-align: center;
-  margin-bottom: 4rem;
-}
-
-.speakers-introduction h2 {
-  font-size: 2.5rem;
-  color: #333;
-  margin-bottom: 1rem;
-}
-
-.intro-text {
-  font-size: 1.2rem;
-  line-height: 1.8;
-  color: #666;
-  max-width: 900px;
-  margin: 0 auto;
 }
 
 .speakers-grid {
@@ -290,33 +210,6 @@ nav_order: 1
 
 .speaker-card:hover .speaker-image-container {
   border-color: #00f2fe;
-}
-
-.speaker-overlay {
-  position: absolute;
-  top: 5px;
-  right: 5px;
-  z-index: 3;
-}
-
-.speaker-status {
-  background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
-  color: white;
-  width: 24px;
-  height: 24px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.7rem;
-  font-weight: 700;
-  box-shadow: 0 2px 8px rgba(40, 167, 69, 0.3);
-  border: 2px solid white;
-}
-
-.speaker-status::before {
-  content: "✓";
-  font-size: 0.8rem;
 }
 
 .speaker-info {

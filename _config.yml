@@ -2,18 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: PhiloLLM'25 # the website title (if blank, full name will be used instead)
+title: PhiloAI @ ICML'26 # the website title (if blank, full name will be used instead)
 first_name: Workshop on
 middle_name:
 last_name: Philosophy of AI in the Era of Large Language Models
-email: hokinxqdeng@gmail.com
+email: hokind@andrew.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  NeurIPS 2025 Workshop on Philosophy of AI in the Era of Large Language Models
+  ICML 2026 Workshop on Philosophy of AI in the Era of Large Language Models
 
 footer_text: >
-  NeurIPS 2025 Workshop on Philosophy of AI in the Era of Large Language Models
+  ICML 2026 Workshop on Philosophy of AI in the Era of Large Language Models
 
-keywords: philosophy, artificial intelligence, large language models, consciousness, intentionality, agency, LLM, NeurIPS
+keywords: philosophy, artificial intelligence, large language models, consciousness, intentionality, agency, LLM, ICML
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -95,7 +95,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Please contact the organizing team for any questions about the workshop.
+  Please contact Cameron Buckner (c.buckner@ufl.edu) or Hokin Deng (hokind@andrew.cmu.edu) for any questions about the workshop.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

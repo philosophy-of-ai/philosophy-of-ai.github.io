@@ -13,7 +13,7 @@ nav_order: 2
     <p class="hero-subtitle">Join the philosophical dialogue on large language models</p>
     <div class="deadline-badge">
       <span class="deadline-label">Submission Deadline</span>
-      <span class="deadline-date">24 August 2025</span>
+      <span class="deadline-date">TBD</span>
     </div>
   </div>
   <div class="floating-symbols">
@@ -26,7 +26,7 @@ nav_order: 2
 <div class="call-content">
   <section class="call-introduction">
     <h2>Research Invitation</h2>
-    <p class="intro-text">We invite contributions from philosophy, machine learning, cognitive science, and related disciplines that critically examine the conceptual, methodological, and normative challenges posed by large language models. Particular emphasis is placed on foundational philosophical issues, especially those arising in epistemology and the philosophy of science, the philosophy of language, and the philosophy of mind.</p>
+    <p class="intro-text">We invite contributions from philosophy, machine learning, cognitive science, and related disciplines that critically examine the conceptual, methodological, and normative challenges posed by large language models. Particular emphasis is placed on foundational philosophical issues, especially those arising in epistemology and the philosophy of science, the philosophy of language, and the philosophy of mind. As foundation models advance, machine learning research increasingly engages with foundational philosophical concepts&mdash;this workshop fosters rigorous cross-disciplinary conversations where ML research and philosophical inquiry mutually inform one another.</p>
   </section>
 
   <section class="topics-section">
@@ -109,7 +109,7 @@ nav_order: 2
           <li>Choose archival or non-archival status</li>
           <li>Archival papers appear in official proceedings</li>
           <li>All accepted papers presented as posters</li>
-          <li>Nine papers selected for 10-minute spotlight talks</li>
+          <li>Select papers chosen for spotlight talks</li>
         </ul>
       </div>
 
@@ -127,36 +127,36 @@ nav_order: 2
         <div class="timeline-marker"></div>
         <div class="timeline-content">
           <h3>Submission Open</h3>
-          <p class="date">10 July 2025 (AoE)</p>
+          <p class="date">TBD</p>
         </div>
       </div>
       <div class="timeline-item">
         <div class="timeline-marker active"></div>
         <div class="timeline-content">
           <h3>Submission Deadline</h3>
-          <p class="date">24 August 2025 (AoE)</p>
+          <p class="date">TBD</p>
         </div>
       </div>
       <div class="timeline-item">
         <div class="timeline-marker"></div>
         <div class="timeline-content">
           <h3>Notification of Acceptance</h3>
-          <p class="date">22 September 2025 (AoE)</p>
+          <p class="date">TBD</p>
         </div>
       </div>
       <div class="timeline-item">
         <div class="timeline-marker"></div>
         <div class="timeline-content">
           <h3>Camera Ready Deadline</h3>
-          <p class="date">15 October 2025 (AoE)</p>
+          <p class="date">TBD</p>
         </div>
       </div>
       <div class="timeline-item">
         <div class="timeline-marker"></div>
         <div class="timeline-content">
           <h3>Workshop Day</h3>
-          <p class="date">6/7 December 2025</p>
-          <p class="location">Co-located with NeurIPS 2025</p>
+          <p class="date">TBD</p>
+          <p class="location">Co-located with ICML 2026</p>
         </div>
       </div>
     </div>

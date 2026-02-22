@@ -2,7 +2,7 @@
 layout: page
 permalink: /organizers/
 title: Organizers
-description: Our interdisciplinary organizing team brings together expertise from philosophy, cognitive science, and artificial intelligence to create meaningful dialogue about the implications of LLMs for understanding mind and intelligence.
+description: Our interdisciplinary organizing team spans philosophy, computer science, cognitive science, and the social sciences, with balanced representation across career stages, demographics, and institutional affiliations.
 nav: true
 nav_order: 4
 ---
@@ -18,56 +18,24 @@ nav_order: 4
         <div class="organizer-info">
           <h3 class="organizer-name">Cameron Buckner</h3>
           <p class="organizer-affiliation">University of Florida</p>
+          <p class="organizer-contact"><a href="mailto:c.buckner@ufl.edu">c.buckner@ufl.edu</a> &middot; <a href="http://cameronbuckner.net/">Website</a> &middot; <a href="https://scholar.google.com/citations?user=OXgCldoAAAAJ">Scholar</a></p>
+        </div>
+        <div class="organizer-bio">
+          <p>Professor and Donald F. Cronin Chair in the Humanities at the University of Florida. His research concerns philosophical issues in the study of non-human minds, especially animal cognition and artificial intelligence. Author of <em>From Deep Learning to Rational Machines</em> (2024, OUP). Extensive conference organization experience including Board Member of IACAP and Program Co-Chair for PSA 2027 AI and Data Science track.</p>
         </div>
       </div>
 
       <div class="organizer-card">
         <div class="organizer-image">
-          <img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi">
+          <img src="/assets/img/organizers/harvey_lederman.jpg" alt="Harvey Lederman">
         </div>
         <div class="organizer-info">
-          <h3 class="organizer-name">Freda Shi</h3>
-          <p class="organizer-affiliation">University of Waterloo</p>
+          <h3 class="organizer-name">Harvey Lederman</h3>
+          <p class="organizer-affiliation">University of Texas at Austin</p>
+          <p class="organizer-contact"><a href="mailto:harvey.lederman@utexas.edu">harvey.lederman@utexas.edu</a> &middot; <a href="https://www.harveylederman.com/">Website</a> &middot; <a href="https://scholar.google.com/citations?user=zhJaWkMAAAAJ">Scholar</a></p>
         </div>
-      </div>
-
-      <div class="organizer-card">
-        <div class="organizer-image">
-          <img src="/assets/img/organizers/chandra_sripada.jpg" alt="Chandra Sripada">
-        </div>
-        <div class="organizer-info">
-          <h3 class="organizer-name">Chandra Sripada</h3>
-          <p class="organizer-affiliation">University of Michigan</p>
-        </div>
-      </div>
-
-      <div class="organizer-card">
-        <div class="organizer-image">
-          <img src="/assets/img/organizers/geoff_keeling.jpg" alt="Geoff Keeling">
-        </div>
-        <div class="organizer-info">
-          <h3 class="organizer-name">Geoff Keeling</h3>
-          <p class="organizer-affiliation">Google</p>
-        </div>
-      </div>
-
-      <div class="organizer-card">
-        <div class="organizer-image">
-          <img src="/assets/img/organizers/winnie_street.jpg" alt="Winnie Street">
-        </div>
-        <div class="organizer-info">
-          <h3 class="organizer-name">Winnie Street</h3>
-          <p class="organizer-affiliation">Google</p>
-        </div>
-      </div>
-
-      <div class="organizer-card">
-        <div class="organizer-image">
-          <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng">
-        </div>
-        <div class="organizer-info">
-          <h3 class="organizer-name">Hokin Deng</h3>
-          <p class="organizer-affiliation">Carnegie Mellon University</p>
+        <div class="organizer-bio">
+          <p>Professor of Philosophy and Jacob and Frances Sanger Mossiker Chair in the Humanities at UT Austin. Previously at Princeton University, University of Pittsburgh, and NYU. Received his DPhil from the University of Oxford, where he won the Ryle Prize. Research spans philosophical logic, epistemology, and philosophy of language, with recent focus on philosophy of AI.</p>
         </div>
       </div>
 
@@ -78,51 +46,66 @@ nav_order: 4
         <div class="organizer-info">
           <h3 class="organizer-name">Dezhi Luo</h3>
           <p class="organizer-affiliation">University of Michigan</p>
+          <p class="organizer-contact"><a href="mailto:ihzedoul@umich.edu">ihzedoul@umich.edu</a> &middot; <a href="https://ihzedoul.com/">Website</a> &middot; <a href="https://scholar.google.com/citations?user=m9YSDXMAAAAJ">Scholar</a></p>
+        </div>
+        <div class="organizer-bio">
+          <p>Undergraduate student at the Weinberg Institute for Cognitive Science, University of Michigan. AI Fellow at the Institute of Philosophy, University of London and visiting researcher at UCL. Research at the intersection of cognitive science and philosophy of AI, focusing on consciousness, self-processing, executive functions, and core cognition. Student Committee member for ASSC.</p>
         </div>
       </div>
 
       <div class="organizer-card">
         <div class="organizer-image">
-          <img src="/assets/img/organizers/emmy_liu.jpg" alt="Emmy Liu">
+          <img src="/assets/img/organizers/freda_shi.jpg" alt="Freda Shi">
         </div>
         <div class="organizer-info">
-          <h3 class="organizer-name">Emmy Liu</h3>
-          <p class="organizer-affiliation">Carnegie Mellon University</p>
+          <h3 class="organizer-name">Freda Shi</h3>
+          <p class="organizer-affiliation">University of Waterloo</p>
+          <p class="organizer-contact"><a href="mailto:fhs@uwaterloo.ca">fhs@uwaterloo.ca</a> &middot; <a href="https://cs.uwaterloo.ca/~fhs/">Website</a> &middot; <a href="https://scholar.google.com/citations?user=jkDd-3QAAAAJ">Scholar</a></p>
+        </div>
+        <div class="organizer-bio">
+          <p>Assistant Professor in Computer Science at the University of Waterloo, Faculty Member at the Vector Institute, and Canada CIFAR AI Chair. Research in computational linguistics and NLP, with emphasis on language grounding and drawing inspiration from linguistics, cognitive science, and philosophy. Co-organized the NeurIPS 2025 workshop on Space in Vision, Language, and Embodied AI.</p>
         </div>
       </div>
 
       <div class="organizer-card">
         <div class="organizer-image">
-          <img src="/assets/img/organizers/max_hellrigel.jpg" alt="Max Hellrigel">
+          <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ziqiao Ma">
         </div>
         <div class="organizer-info">
-          <h3 class="organizer-name">Max Hellrigel</h3>
-          <p class="organizer-affiliation">FAU Erlangen-Nürnberg</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="workflow-chairs-section">
-    <h3>Workflow Chairs</h3>
-    <div class="workflow-chairs-grid">
-      <div class="organizer-card workflow-chair">
-        <div class="organizer-image">
-          <img src="/assets/img/organizers/vincent_mueller.jpg" alt="Vincent Mueller">
-        </div>
-        <div class="organizer-info">
-          <h3 class="organizer-name">Vincent Mueller</h3>
-          <p class="organizer-affiliation">FAU Erlangen-Nuremberg</p>
-        </div>
-      </div>
-
-      <div class="organizer-card workflow-chair">
-        <div class="organizer-image">
-          <img src="/assets/img/organizers/martin_ma.jpg" alt="Martin Ma">
-        </div>
-        <div class="organizer-info">
-          <h3 class="organizer-name">Martin Ma</h3>
+          <h3 class="organizer-name">Martin Ziqiao Ma</h3>
           <p class="organizer-affiliation">University of Michigan</p>
+          <p class="organizer-contact"><a href="mailto:ziqiaoma@umich.edu">ziqiaoma@umich.edu</a> &middot; <a href="https://mars-tin.github.io/">Website</a> &middot; <a href="https://scholar.google.com/citations?user=WbybssYAAAAJ">Scholar</a></p>
+        </div>
+        <div class="organizer-bio">
+          <p>PhD candidate at the University of Michigan. Research at the intersection of language, interaction, and embodiment from a cognitive perspective. Recipient of the Weinberg Cognitive Science Fellowship, Outstanding Paper Award at ACL 2023, and Amazon Alexa Prize Simbot Challenge Award. Co-organized workshops at ICLR/CHI 2025, ACL 2024, and NeurIPS 2025.</p>
+        </div>
+      </div>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/winnie_street.jpg" alt="Winnie Street">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Winnie Street</h3>
+          <p class="organizer-affiliation">Google</p>
+          <p class="organizer-contact"><a href="mailto:istreet@google.com">istreet@google.com</a> &middot; <a href="https://x.com/winniestreet">X/Twitter</a> &middot; <a href="https://scholar.google.com/citations?user=23-xc9UAAAAJ&hl=en">Scholar</a></p>
+        </div>
+        <div class="organizer-bio">
+          <p>Senior Researcher at Google on the Paradigms of Intelligence Team and Fellow at the Institute of Philosophy, University of London. Research combines philosophical and empirical approaches to AI cognition, consciousness, moral status, and their implications for AI ethics and safety. Co-led Google's first empirical study on machine sentience.</p>
+        </div>
+      </div>
+
+      <div class="organizer-card">
+        <div class="organizer-image">
+          <img src="/assets/img/organizers/hokin_deng.jpg" alt="Hokin Deng">
+        </div>
+        <div class="organizer-info">
+          <h3 class="organizer-name">Hokin Deng</h3>
+          <p class="organizer-affiliation">Carnegie Mellon University</p>
+          <p class="organizer-contact"><a href="mailto:hokind@andrew.cmu.edu">hokind@andrew.cmu.edu</a> &middot; <a href="https://hokindeng.github.io/">Website</a> &middot; <a href="https://scholar.google.com/citations?user=J3JfO1gAAAAJ">Scholar</a></p>
+        </div>
+        <div class="organizer-bio">
+          <p>Visiting Research Scientist at Carnegie Mellon University. Previously a computer vision engineer at Harvard University where he designed the first experimental infrastructure for single-cell cognition experiments. Former neural engineer at Johns Hopkins Hospital and affiliated research scientist at Meta Reality Labs. Studied neuroscience and philosophy at JHU.</p>
         </div>
       </div>
     </div>
@@ -130,110 +113,15 @@ nav_order: 4
 </div>
 
 <style>
-.organizers-hero {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 4rem 2rem;
-  border-radius: 20px;
-  margin-bottom: 3rem;
-  position: relative;
-  overflow: hidden;
-}
-
-.hero-content {
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: center;
-  position: relative;
-  z-index: 2;
-}
-
-.hero-title {
-  font-size: 3.5rem;
-  font-weight: 700;
-  margin-bottom: 1rem;
-  background: linear-gradient(45deg, #fff, #e3f2fd);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.hero-subtitle {
-  font-size: 1.4rem;
-  margin-bottom: 2rem;
-  opacity: 0.9;
-}
-
-.organizer-count {
-  display: inline-block;
-  background: rgba(255, 255, 255, 0.2);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 15px;
-  padding: 1rem 2rem;
-  font-size: 1.2rem;
-  font-weight: 600;
-}
-
-.count-number {
-  display: block;
-  font-size: 2rem;
-  font-weight: 700;
-}
-
-.floating-elements {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-}
-
-.element {
-  position: absolute;
-  font-size: 2rem;
-  opacity: 0.1;
-  animation: float 6s ease-in-out infinite;
-}
-
-.element:nth-child(1) { top: 20%; left: 10%; animation-delay: 0s; }
-.element:nth-child(2) { top: 60%; right: 15%; animation-delay: 2s; }
-.element:nth-child(3) { bottom: 20%; left: 20%; animation-delay: 4s; }
-
-@keyframes float {
-  0%, 100% { transform: translateY(0px) rotate(0deg); }
-  50% { transform: translateY(-20px) rotate(5deg); }
-}
-
 .organizers-content {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0 2rem;
 }
 
-.organizers-introduction {
-  text-align: center;
-  margin-bottom: 4rem;
-}
-
-.organizers-introduction h2 {
-  font-size: 2.5rem;
-  color: #333;
-  margin-bottom: 2rem;
-}
-
-.intro-text {
-  font-size: 1.2rem;
-  color: #666;
-  line-height: 1.8;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
 .organizers-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 2rem;
   margin-bottom: 4rem;
 }
@@ -259,6 +147,15 @@ nav_order: 4
   justify-content: center;
   align-items: center;
   margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.organizer-image::before {
+  content: '👤';
+  position: absolute;
+  font-size: 3rem;
+  color: #ccc;
+  z-index: 1;
 }
 
 .organizer-image img {
@@ -268,6 +165,15 @@ nav_order: 4
   object-fit: cover;
   border: 4px solid #667eea;
   transition: transform 0.3s ease, border-color 0.3s ease;
+  position: relative;
+  z-index: 2;
+  background: #f8f9fa;
+}
+
+.organizer-image img:not([src]),
+.organizer-image img[src=""],
+.organizer-image img[src*="placeholder"] {
+  opacity: 0;
 }
 
 .organizer-card:hover .organizer-image img {
@@ -286,32 +192,17 @@ nav_order: 4
   margin-bottom: 0.5rem;
 }
 
-.organizer-role {
-  display: inline-block;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 0.3rem 0.8rem;
-  border-radius: 12px;
-  font-size: 0.75rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  margin-bottom: 0.8rem;
-}
-
 .organizer-affiliation {
   color: #667eea;
   font-weight: 600;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   font-size: 1rem;
 }
 
 .organizer-contact {
   color: #667eea;
-  font-weight: 600;
+  font-size: 0.85rem;
   margin-bottom: 1rem;
-  font-size: 0.9rem;
-  line-height: 1.4;
 }
 
 .organizer-contact a {
@@ -325,59 +216,14 @@ nav_order: 4
   border-bottom-color: #764ba2;
 }
 
-@media (max-width: 768px) {
-  .hero-title {
-    font-size: 2.5rem;
-  }
-  
-  .organizers-grid {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-  
-  .organizer-card {
-    padding: 1.5rem;
-  }
-  
-  .organizer-image img {
-    width: 100px;
-    height: 100px;
-  }
-  
-  .organizer-name {
-    font-size: 1.2rem;
-  }
-  
-  .organizer-affiliation {
-    font-size: 0.9rem;
-  }
+.organizer-bio {
+  text-align: left;
 }
 
-.workflow-chairs-section {
-  text-align: center;
-  margin-bottom: 2rem;
-  margin-top: 3rem;
-}
-
-.workflow-chairs-section h3 {
-  font-size: 1.8rem;
+.organizer-bio p {
   color: #666;
-  margin-bottom: 1.5rem;
-  font-weight: 600;
-}
-
-.workflow-chairs-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  max-width: 700px;
-  margin: 0 auto;
-}
-
-.organizer-card.workflow-chair {
-  border: 1px solid #e0e0e0;
-  background: #fafafa;
-  transform: scale(0.95);
+  line-height: 1.6;
+  font-size: 0.9rem;
 }
 
 .organizers-section {
@@ -401,5 +247,29 @@ nav_order: 4
   height: 3px;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   border-radius: 2px;
+}
+
+@media (max-width: 768px) {
+  .organizers-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .organizer-card {
+    padding: 1.5rem;
+  }
+  
+  .organizer-image img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .organizer-name {
+    font-size: 1.2rem;
+  }
+  
+  .organizer-affiliation {
+    font-size: 0.9rem;
+  }
 }
 </style> 

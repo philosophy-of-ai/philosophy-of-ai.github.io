@@ -1,13 +1,13 @@
 # Philosophy of AI in the Era of Large Language Models
 
-**NeurIPS 2025 Workshop**  
-**December 6/7, 2025**
+**ICML 2026 Workshop**  
+**Date: TBD**
 
 ---
 
 ## About
 
-This repository hosts the website for the NeurIPS 2025 Workshop on "Philosophy of AI in the Era of Large Language Models". The workshop brings together researchers from philosophy, computer science, cognitive science, and related fields to examine the conceptual, methodological, and normative challenges posed by large language models.
+This repository hosts the website for the ICML 2026 Workshop on "Philosophy of AI in the Era of Large Language Models". The workshop brings together researchers from philosophy, computer science, cognitive science, and related fields to examine the conceptual, methodological, and normative challenges posed by large language models.
 
 Recent advances in LLMs raise pressing questions that intersect with longstanding debates in philosophy, cognitive science, and AI safety. As these systems increasingly exhibit behaviors associated with reasoning, communication, and decision-making, they compel a reexamination of foundational concepts such as knowledge, intentionality, agency, and consciousness.
 
@@ -17,10 +17,10 @@ Visit our website at: [https://philosophy-of-ai.github.io/](https://philosophy-o
 
 ## Key Information
 
-- **Submission Deadline:** 24 August 2025 (AoE)
-- **Notification:** 22 September 2025 (AoE) 
-- **Camera Ready:** 15 October 2025 (AoE)
-- **Workshop Date:** 6/7 December 2025
+- **Submission Deadline:** TBD
+- **Notification:** TBD
+- **Camera Ready:** TBD
+- **Workshop Date:** TBD (co-located with ICML 2026)
 
 ## Topics
 
@@ -35,32 +35,31 @@ Our workshop covers but is not limited to:
 
 ## Speakers
 
-We have confirmed eight distinguished speakers including:
-- David Chalmers (New York University)
-- Melanie Mitchell (Santa Fe Institute)
+All confirmed and presenting in person:
+- Geoff Keeling (Google)
+- Herman Cappelen (University of Hong Kong)
 - Been Kim (Google DeepMind)
+- Vincent C. Müller (FAU Erlangen-Nürnberg)
 - Daniel Rothschild (University College London)
-- Yilun Du (Harvard University / Google DeepMind)
-- Raphaël Millière (Macquarie University / University of Oxford)
-- Ziming Liu (MIT / Tsinghua University)
-- Ellie Pavlick (Brown University & Google DeepMind)
+- Yilun Du (Harvard University)
+- Raphaël Millière (University of Oxford)
 
 ## Organizers
 
-The workshop is organized by an interdisciplinary team from philosophy, computer science, and cognitive science:
+The workshop is organized by an interdisciplinary team from philosophy, computer science, cognitive science, and the social sciences:
 - Cameron Buckner (University of Florida)
-- Chandra Sripada (University of Michigan)
-- Hokin Deng (Carnegie Mellon University)
+- Harvey Lederman (University of Texas at Austin)
 - Dezhi Luo (University of Michigan)
 - Freda Shi (University of Waterloo)
-- Geoff Keeling (Google)
+- Martin Ziqiao Ma (University of Michigan)
 - Winnie Street (Google)
-- Emmy Liu (Carnegie Mellon University)
-- Max Hellrigel-Holderbaum (FAU Erlangen-Nuremberg)
+- Hokin Deng (Carnegie Mellon University)
 
 ## Contact
 
-For questions about the workshop, please contact: [hokinxqdeng@gmail.com](mailto:hokinxqdeng@gmail.com)
+**Primary Contacts:**
+- Cameron Buckner: [c.buckner@ufl.edu](mailto:c.buckner@ufl.edu)
+- Hokin Deng: [hokind@andrew.cmu.edu](mailto:hokind@andrew.cmu.edu)
 
 ---
 

@@ -1,0 +1,18 @@
+{% if site.enable_masonry_layout %}
+<!-- Masonry JS -->
+<script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script defer>
+document.addEventListener('DOMContentLoaded', function() {
+  var grids = document.querySelectorAll('.masonry-grid');
+  grids.forEach(function(grid) {
+    imagesLoaded(grid, function() {
+      new Masonry(grid, {
+        itemSelector: '.masonry-item',
+        percentPosition: true
+      });
+    });
+  });
+});
+</script>
+{% endif %} 
